@@ -15,7 +15,7 @@ I'm not a student.
 ```
 
 * `じゃありません` is also used instead of `ではありません`. `じゃありません` sounds more casual.
-  * わたしががくせいじゃありません
+  * わたしはがくせいじゃありません
 
 ### Possessive Cases
 
