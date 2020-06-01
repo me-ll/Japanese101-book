@@ -56,7 +56,7 @@ I'm not a student.
 彼女の犬の名前はキティではありません。
 かのじょのいぬなまえはきてぃではありません。
 kanojo no namae wa kiti dewa arimasen.
-Her god's name is not Kitty.
+Her dog's name is not Kitty.
 
 彼の仕事は開発ではありません。
 かれのしごとはかいはつではありません。
