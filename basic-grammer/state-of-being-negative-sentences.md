@@ -3,7 +3,7 @@
 ### Negative Sentences
 
 ```text
-// <Subject Pronoun> + は + <Noun> + では + ありません
+// <Subject> + は + <Noun> + では + ありません
 
 私は学生ではありません。
 

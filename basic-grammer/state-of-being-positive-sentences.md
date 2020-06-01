@@ -3,7 +3,7 @@
 ## Positive sentences
 
 ```text
-// <Subject Pronoun> + は + <Noun> + です
+// <Subject> + は + <Noun> + です
 
 私は学生です。
 
