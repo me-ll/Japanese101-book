@@ -54,8 +54,11 @@ Japanese has tons of subjects. You might have heard some subjects in anime or ma
 | kanji | Hiragara | Romaji | English |
 | :--- | :--- | :--- | :--- |
 | 日本人 | にほんじん | nihonnjin | Japanese |
+| 韓国人 | かんこくじん | kankokujin | Korean |
+| 中国人 | ちゅうごくじん | chugokujin | Chinese |
 | アメリカ人 | あめりかじん | amerikajin | American |
 | チリ人 | ちりじん | chirijin | Chilian |
+| スペイン人 | すぺいんじん | supeinjin | Spanish |
 | 学生 | がくせい | gakusei | student |
 | 先生 | せんせい | sensei | teacher |
 | 開発者 | かいはつしゃ | kaihatsusha | developer |
