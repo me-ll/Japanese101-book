@@ -12,7 +12,7 @@ Watashi wa gakusei desu.
 I'm a student.
 ```
 
-* `は` is usually pronounced `ha` but when it is used as a particle, it pronounced `wa`. `は` after subject is pronounced as `wa`. 
+* `は` is usually pronounced `ha` but when it is used as a particle, it pronounced `wa`. `は` after subject is pronounced as `wa`.
 * In Japanese, the subject could be omitted when it is obvious. You can just say `がくせいです`.
 * In Japanese, articles\(`a` or `an` before nouns\) do not exist and nouns do not need to change \(putting `s`, `es` or completely other word\) depends on singular or plural.
 * `です` is used to explain state-of-being like am, are, is in English. In Japanese, verbs are not conjugated depends on subject.
@@ -21,7 +21,7 @@ I'm a student.
 
 Japanese has tons of subjects. You might heard other subjects in anime or manga. I just write most common ones.
 
-#### Singular Subjects
+#### Singular Subject Pronouns
 
 | Kanji | Hiragara | Romaji | English |
 | :--- | :--- | :--- | :--- |
@@ -38,7 +38,7 @@ Japanese has tons of subjects. You might heard other subjects in anime or manga.
 * きみ is casual
 * かのじょ could mean girlfriend depends on context.
 
-#### Plural Subjects
+#### Plural Subject Pronouns
 
 | Kanji | Hiragara | Romaji | English |
 | :--- | :--- | :--- | :--- |
