@@ -1,0 +1,8 @@
+# Mac
+*.DS_Store
+
+# IDEs
+.vscode
+
+# Book build output
+_book
