@@ -17,11 +17,11 @@ I'm not a student.
 * `じゃありません` is also used instead of `ではありません`. `じゃありません` sounds more casual.
   * わたしはがくせいじゃありません
 
-### Possessive Cases
+### Possessive Form
 
-`noun` + `の` makes possessive cases.
+`noun` + `の` forms a possessive.
 
-#### Singular Possessive Cases
+#### Singular Possessive Form
 
 | Kanji | Hiragara | Romaji | English |
 | :--- | :--- | :--- | :--- |
@@ -32,7 +32,7 @@ I'm not a student.
 | 彼の | かれの | kareno | his |
 | 彼女の | かのじょの | kanojono | her |
 
-#### Plural Possessive Cases
+#### Plural Possessive Form
 
 | Kanji | Hiragara | Romaji | English |
 | :--- | :--- | :--- | :--- |
