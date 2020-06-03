@@ -26,7 +26,7 @@ I'm a student.
 
 ### Pronouns
 
-Japanese has lots of pronouns. You might have heard some of them in anime or manga. Here are just  the most common ones.
+Japanese has lots of pronouns. You might have heard some of them in anime or manga. Here are just the most common ones.
 
 #### Singular Subject Pronouns
 
