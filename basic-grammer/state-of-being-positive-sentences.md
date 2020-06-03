@@ -16,17 +16,17 @@ I'm a student.
 
 * `は` is usually pronounced `ha` but when it's used as a particle, it's pronounced `wa`. `は` after a subject is pronounced as `wa`.
 * In Japanese, the subject can be omitted when it's obvious.
-  * In the above, you can just say `がくせいです`.
+  * ~~_**わたしは**_~~がくせいです
 * In Japanese, articles\(`a` or `an` before nouns\) do not exist. 
-* Nouns do not need to change depending on whether they're singular or plural \(e.g. putting an `s` at the of noun\).
+* Nouns do not need to change depending on whether they're singular or plural.
 * `です` is used as a state-of-being verb like `am`, `are`,  and `is` in English. 
 * In Japanese, verbs are not conjugated depending on the subject.
-  * わたしはがくせいです \(I _**am**_ a student\)
-  * かのじょはがくせいです \(She _**is**_ a student\)
+  * わたしはがくせい_**です**_ \(I _**am**_ a student\)
+  * かのじょはがくせい_**です**_ \(She _**is**_ a student\)
 
-### Subjects
+### Pronouns
 
-Japanese has tons of subjects. You might have heard some subjects in anime or manga. I just wrote the most common ones.
+Japanese has lots of pronouns. You might have heard some of them in anime or manga. Here are just  the most common ones.
 
 #### Singular Subject Pronouns
 
