@@ -14,12 +14,12 @@ watashi wa gakusei dewa arimasen.
 I'm not a student.
 ```
 
-* `じゃありません` is also used instead of `ではありません`. `じゃありません` sounds more casual.
-  * わたしはがくせいじゃありません
+* `じゃありません` is also used instead of `ではありません`. `じゃありません` sounds less formal.
+  * わたしはがくせい_**じゃありません**_
 
 ## Possessive Form
 
-`noun` + `の` forms a possessive.
+`noun` + `の` form is possessive.
 
 ### Singular Possessive Form
 
@@ -41,7 +41,7 @@ I'm not a student.
 | 君達の | きみたちの | kimitachino | your |
 | 彼らの | かれらの | karerano | their |
 
-## Other vocabularies
+## Other vocabulary
 
 | Kanji | Hiragara | Romaji | English |
 | :--- | :--- | :--- | :--- |
@@ -55,7 +55,7 @@ I'm not a student.
 ```text
 彼女の犬の名前はキティではありません。
 かのじょのいぬなまえはきてぃではありません。
-kanojo no namae wa kiti dewa arimasen.
+kanojo no inu no namae wa kiti dewa arimasen.
 Her dog's name is not Kitty.
 
 彼の仕事は開発ではありません。

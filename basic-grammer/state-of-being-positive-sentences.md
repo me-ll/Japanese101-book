@@ -54,7 +54,7 @@ Japanese has lots of pronouns. You might have heard some of them in anime or man
 | 君達 | きみたち | kimitachi | you all |
 | 彼ら | かれら | karera | they |
 
-### Other vocabularies
+### Other vocabulary
 
 | kanji | Hiragara | Romaji | English |
 | :--- | :--- | :--- | :--- |
