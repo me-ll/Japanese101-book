@@ -14,10 +14,15 @@ Watashi wa gakusei desu.
 I'm a student.
 ```
 
-* `は` is usually pronounced `ha` but when it is used as a particle, it pronounced `wa`. `は` after the subject is pronounced as `wa`.
-* In Japanese, the subject can be omitted when it is obvious. You can just say `がくせいです`.
-* In Japanese, articles\(`a` or `an` before nouns\) do not exist and nouns do not need to change \(putting `s`, `es` or completely other word\) that normally depend on singular or plurals no not need to change.
-* `です` is used to explain state-of-being like "am", "are",  and "is" in English. In Japanese, verbs are not conjugated depends on subject.
+* `は` is usually pronounced `ha` but when it's used as a particle, it's pronounced `wa`. `は` after a subject is pronounced as `wa`.
+* In Japanese, the subject can be omitted when it's obvious.
+  * In the above, you can just say `がくせいです`.
+* In Japanese, articles\(`a` or `an` before nouns\) do not exist. 
+* Nouns do not need to change depending on whether they're singular or plural \(e.g. putting an `s` at the of noun\).
+* `です` is used as a state-of-being verb like `am`, `are`,  and `is` in English. 
+* In Japanese, verbs are not conjugated depending on the subject.
+  * わたしはがくせいです \(I _**am**_ a student\)
+  * かのじょはがくせいです \(She _**is**_ a student\)
 
 ### Subjects
 

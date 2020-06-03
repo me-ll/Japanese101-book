@@ -1,6 +1,6 @@
 # State-of-Being: Negative sentences
 
-### Negative Sentences
+## Negative Sentences
 
 ```text
 // <Subject> + は + <Noun> + では + ありません
@@ -17,11 +17,11 @@ I'm not a student.
 * `じゃありません` is also used instead of `ではありません`. `じゃありません` sounds more casual.
   * わたしはがくせいじゃありません
 
-### Possessive Form
+## Possessive Form
 
 `noun` + `の` forms a possessive.
 
-#### Singular Possessive Form
+### Singular Possessive Form
 
 | Kanji | Hiragara | Romaji | English |
 | :--- | :--- | :--- | :--- |
@@ -32,7 +32,7 @@ I'm not a student.
 | 彼の | かれの | kareno | his |
 | 彼女の | かのじょの | kanojono | her |
 
-#### Plural Possessive Form
+### Plural Possessive Form
 
 | Kanji | Hiragara | Romaji | English |
 | :--- | :--- | :--- | :--- |
@@ -41,7 +41,7 @@ I'm not a student.
 | 君達の | きみたちの | kimitachino | your |
 | 彼らの | かれらの | karerano | their |
 
-### Other vocabularies
+## Other vocabularies
 
 | Kanji | Hiragara | Romaji | English |
 | :--- | :--- | :--- | :--- |
@@ -63,6 +63,4 @@ Her dog's name is not Kitty.
 Kare no shigoto wa kaihatsu dewa arimasen.
 His job is not developing.
 ```
-
-
 
