@@ -6,3 +6,6 @@
 
 # Book build output
 _book
+
+#node_modules
+node_modules
