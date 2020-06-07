@@ -51,6 +51,7 @@ I'm not a student.
 | 鳥 | とり | tori | bird |
 | 仕事 | しごと | shigoto | job |
 | 開発 | かいはつ | kaihatsu | developing |
+| 言語 | 言語 | gengo | language |
 
 ```text
 彼女の犬の名前はキティではありません。
@@ -62,5 +63,10 @@ Her dog's name is not Kitty.
 かれのしごとはかいはつではありません。
 Kare no shigoto wa kaihatsu dewa arimasen.
 His job is not developing.
+
+HTMLはプログラミング言語じゃありません。
+HTMLはぷろぐらみんぐげんごじゃありません。
+HTML wa puroguramingu gengo ja arimasen.
+HTML is not programming language
 ```
 
