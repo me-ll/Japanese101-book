@@ -51,7 +51,7 @@ Are you a student?
 ```text
 これは開発環境ですが。
 これはかいはつかんきょうですか。
-korewa kaihatsu kankyo desu ka.
+kore wa kaihatsu kankyo desu ka.
 Is this a development environment?
 
 - いいえ、違います。これは本番環境です。
