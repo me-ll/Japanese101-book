@@ -14,9 +14,9 @@
 
 * [Untitled](kanji/untitled.md)
 
-## Basic Grammer
+## Basic Grammar
 
-* [State-of-Being: Positive sentences](basic-grammer/state-of-being-positive-sentences.md)
-* [State-of-Being: Negative sentences](basic-grammer/state-of-being-negative-sentences.md)
-* [State-of-Being: Question sentences](basic-grammer/state-of-being-question-sentences.md)
+* [State-of-Being: Positive sentences](basic-grammar/state-of-being-positive-sentences.md)
+* [State-of-Being: Negative sentences](basic-grammar/state-of-being-negative-sentences.md)
+* [State-of-Being: Question sentences](basic-grammar/state-of-being-question-sentences.md)
 
