@@ -39,11 +39,11 @@ Japanese has lots of pronouns. You might have heard some of them in anime or man
 | 彼 | かれ | kare | he |
 | 彼女 | かのじょ | kanojo | she |
 
-* わたし is formal for males and normal for females
-* ぼく is normal for males
-* あたな is normal and あなた has kanji but it usually written in Hiragana
-* きみ is casual
-* かのじょ could mean girlfriend depending on the context.
+* `わたし` is formal for males and normal for females
+* `ぼく` is normal for males
+* `あたな` is normal and `あなた` has kanji but it usually written in Hiragana
+* `きみ` is casual
+* `かのじょ` could mean girlfriend depending on the context.
 
 #### Plural Subject Pronouns
 
