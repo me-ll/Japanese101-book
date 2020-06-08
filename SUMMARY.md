@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [Getting Started](getting-started.md)
 
 ## Hiragana
 
