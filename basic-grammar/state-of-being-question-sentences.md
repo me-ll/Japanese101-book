@@ -22,9 +22,9 @@ Are you a student?
 - No, I'm not.
 ```
 
-* Adding `か` after a positive sentence makes a question sentences.
-* In Japanese, `?` mark is not needed in the end of question sentences.
-* A subject in response sentences can be omitted.
+* Adding `か` after a positive sentence makes it a question sentence.
+* In Japanese, question marks(`?`) are not needed in the end of questions.
+* In Japanese, the subject in response sentences can be omitted.
 
 ## Other vocabulary
 
@@ -43,7 +43,7 @@ Are you a student?
 林檎は果物ですか。
 りんごはやさいですか。
 ringo wa kudamono desu ka.
-Are apples fruits?
+Are apples a fruit?
 
 - はい、そうです。
 - hai, sou desu.
@@ -61,7 +61,7 @@ Are carrots vegetables?
 CSSはプログラミング言語ですか。
 CSSはぷろぐらみんぐげんごですか。
 CSS wa puroguramingu gengo desu ka.
-Is CSS programing language?
+Is CSS a programing language?
 
 ```
 
