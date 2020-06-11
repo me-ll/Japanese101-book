@@ -41,7 +41,7 @@ Are you a student?
 
 ```text
 林檎は果物ですか。
-りんごはやさいですか。
+りんごはくだものですか。
 ringo wa kudamono desu ka.
 Are apples a fruit?
 
@@ -56,7 +56,7 @@ Are carrots vegetables?
 
 - いいえ、ちがいます。
 - iie, chigai masu.
-- No, I'm not.
+- No, it's not.
 
 CSSはプログラミング言語ですか。
 CSSはぷろぐらみんぐげんごですか。
