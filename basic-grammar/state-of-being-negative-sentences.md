@@ -49,6 +49,8 @@ I'm not a student.
 | 犬 | いぬ | inu | dog |
 | 猫 | ねこ | neko | cat |
 | 鳥 | とり | tori | bird |
+| 彼氏 | かれし | kareshi | boyfriend |
+| 彼女 | かのじょ | kanojo | girlfriend |
 | 仕事 | しごと | shigoto | job |
 | 開発 | かいはつ | kaihatsu | developing |
 | 言語 | 言語 | gengo | language |
@@ -58,6 +60,11 @@ I'm not a student.
 かのじょのいぬなまえはきてぃではありません。
 kanojo no inu no namae wa kiti dewa arimasen.
 Her dog's name is not Kitty.
+
+トムは私の彼氏ではありません。
+とむはわたしのかれしではありません。
+Tom wa watashi no kareshi dewa arimasen.
+Tom isn't my boyfriend.
 
 彼の仕事は開発ではありません。
 かれのしごとはかいはつではありません。
