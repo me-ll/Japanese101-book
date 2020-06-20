@@ -59,8 +59,8 @@ Are carrots vegetables?
 - No, it's not.
 
 CSSはプログラミング言語ですか。
-CSSはぷろぐらみんぐげんごですか。
-CSS wa puroguramingu gengo desu ka.
+しーえすえすはぷろぐらみんぐげんごですか。
+shi-esuesu wa puroguramingu gengo desu ka.
 Is CSS a programing language?
 
 ```
