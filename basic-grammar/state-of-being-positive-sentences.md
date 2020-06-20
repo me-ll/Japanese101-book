@@ -81,5 +81,10 @@ She is American.
 かれらはこどもです。
 karera wa kodomo desu.
 They are kids.
+
+彼は留学生です。
+かれはりゅうがくせいです。
+kare wa ryuugakusei desu.
+He's an international student.
 ```
 
