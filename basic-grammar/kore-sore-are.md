@@ -59,6 +59,6 @@ Is this a development environment?
 - いいえ、違います。これは本番環境です。
 - いいえ、ちがいます。これはほんばんかんきょうです。
 - iie, chigai masu. kore wa honban kankyo desu.
-- Mo, it isn't. This is production environment.
+- No, it isn't. This is production environment.
 ```
 
