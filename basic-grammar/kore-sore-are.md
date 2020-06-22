@@ -28,7 +28,7 @@ This is a car.
 * `あれ` is used to explain something far away from you and the other person.
 * `これ`, `それ`, and `あれ` are used by themselves.
   * _**これ**_はくるまです \(This is a car\)
-* `この`, `その`, and `あの` are used with noun.
+* `この`, `その`, and `あの` are used with a noun.
   * _**こののりもの**_はくるまです \(This vehicle is a car \)
 
 ![&#x3053;&#x308C; / &#x305D;&#x308C; / &#x3042;&#x308C;](../.gitbook/assets/aresorekore%20%281%29.jpg)
@@ -59,6 +59,6 @@ Is this a development environment?
 - いいえ、違います。これは本番環境です。
 - いいえ、ちがいます。これはほんばんかんきょうです。
 - iie, chigai masu. kore wa honban kankyo desu.
-- No, it isn't. This is production environment.
+- No, it isn't. This is a production environment.
 ```
 
