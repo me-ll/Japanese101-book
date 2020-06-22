@@ -20,5 +20,5 @@
 * [State-of-Being: Positive sentences](basic-grammar/state-of-being-positive-sentences.md)
 * [State-of-Being: Negative sentences](basic-grammar/state-of-being-negative-sentences.md)
 * [State-of-Being: Question sentences](basic-grammar/state-of-being-question-sentences.md)
-* [kore, sore, are](basic-grammar/kore-sore-are.md)
+* [Kore, Sore, Are](basic-grammar/kore-sore-are.md)
 

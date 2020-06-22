@@ -1,7 +1,15 @@
-# kore, sore, are
+# Kore, Sore, Are
 
 ```text
+// これ + は + <Noun> + です
 
+これは車です。
+
+これはくるまです。
+
+kore wa kuruma desu.
+
+This is a car.
 ```
 
 `これ`, `それ`, `あれ` are the words to explain something you do not know how to say.
@@ -15,22 +23,27 @@
 | その \(+noun\) | sono | that |
 | あの \(+noun\) | ano | that over there |
 
-* これ is used to explain something close to you.
-* それ is used to explain something close to the other person.
-* あれ is used to explain something far away from you and the other person.
-* これそれあれ are used by themselves.
-  * これはあかです \(This is red\)
-* このそのあの are used with noun.
-  * このいろはあおです \(This color \)
+* `これ` is used to explain something close to you.
+* `それ` is used to explain something close to the other person.
+* `あれ` is used to explain something far away from you and the other person.
+* `これ`, `それ`, and `あれ` are used by themselves.
+  * _**これ**_はくるまです \(This is a car\)
+* `この`, `その`, and `あの` are used with noun.
+  * _**こののりもの**_はくるまです \(This vehicle is a car \)
 
-
+![&#x3053;&#x308C; / &#x305D;&#x308C; / &#x3042;&#x308C;](../.gitbook/assets/aresorekore%20%281%29.jpg)
 
 ## Other vocabulary
 
-// もう少し例文追加する
-
 | Kanji | Hiragara | Romaji | English |
 | :--- | :--- | :--- | :--- |
+| 乗り物 | のりもの | norimono | vehicle |
+| 車 | くるま | kuruma | car |
+| 自転車 | じてんしゃ | jitensya | bicycle |
+| 電車 | でんしゃ | densya | train |
+| 地下鉄 | ちかてつ | chikatetsu | subway |
+| バス | ばす | basu | bus |
+| モノレール | ものれーる | monore-ru | monorail |
 | 環境 | かんきょう | kankyo | environment |
 | ローカル | ろーかる | ro-karu | local |
 | 開発 | かいはつ | kaihatsu | development |

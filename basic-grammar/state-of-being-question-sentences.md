@@ -23,7 +23,7 @@ Are you a student?
 ```
 
 * Adding `か` after a positive sentence makes it a question sentence.
-* In Japanese, question marks(`?`) are not needed in the end of questions.
+* In Japanese, question marks\(`?`\) are not needed in the end of questions.
 * In Japanese, the subject in response sentences can be omitted.
 
 ## Other vocabulary
@@ -62,6 +62,5 @@ CSSはプログラミング言語ですか。
 しーえすえすはぷろぐらみんぐげんごですか。
 shi-esuesu wa puroguramingu gengo desu ka.
 Is CSS a programing language?
-
 ```
 
