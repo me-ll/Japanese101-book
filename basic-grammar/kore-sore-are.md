@@ -12,7 +12,7 @@ kore wa kuruma desu.
 This is a car.
 ```
 
-`これ`, `それ`, `あれ` are the words to explain something you do not know how to say.
+`これ`, `それ`, `あれ` are demonstratives in Japanese.
 
 | Hiragara | Romaji | English |
 | :--- | :--- | :--- |
@@ -23,9 +23,9 @@ This is a car.
 | その \(+noun\) | sono | that |
 | あの \(+noun\) | ano | that over there |
 
-* `これ` is used to explain something close to you.
-* `それ` is used to explain something close to the other person.
-* `あれ` is used to explain something far away from you and the other person.
+* `これ` is something near to you.
+* `それ` is something near to listeners.
+* `あれ` is something far away from both speaker and listeners.
 * `これ`, `それ`, and `あれ` are used by themselves.
   * _**これ**_はくるまです \(This is a car\)
 * `この`, `その`, and `あの` are used with a noun.
