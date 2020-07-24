@@ -1,4 +1,4 @@
-# There is/ are
+# There is / are
 
 ```text
 1. <Subject: Human or Animal> + が (+ <Place> + に + ) + います
