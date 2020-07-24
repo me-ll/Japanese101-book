@@ -16,10 +16,10 @@
 
 ```
 
-* `います` is used when subject is something alive.
+* `います` is used when the subject is something alive.
 * `いる` is also used instead of `います`. `いる` sounds less formal.
   * 女\(おんな\)の子\(こ\)が木\(き\)の近\(ちか\)くに_**いる**_ \(There is a little girl near the tree \)
-* `あります` is used when subject is object.
+* `あります` is used when the subject is an object.
 * `ある` is also used instead of`あります`. `ある` sounds less formal.
   * お皿\(さら\)がテーブルの上\(うえ\)にある \(There is a plate on the table\)
 * A place word can be put first in the sentence.
