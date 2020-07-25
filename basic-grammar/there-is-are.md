@@ -36,7 +36,7 @@
 | 家\(いえ\) | house |
 | 建物\(たてもの\) | building |
 | 病院\(びょういん\) | hospital |
-| スーパーマケット | grocery store |
+| スーパーマーケット | grocery store |
 | 男\(おとこ\)の子\(こ\) | boy |
 | 女\(おんな\)の子\(こ\) | girl |
 | 赤\(あか\)ちゃん | baby |
