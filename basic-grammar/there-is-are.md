@@ -33,6 +33,7 @@
 | &lt;N&gt;の下\(した\)に | under the &lt;N&gt; |
 | &lt;N&gt;の上\(うえ\)に | on the &lt;N&gt; |
 | &lt;N&gt;の近\(ちか\)くに | near the &lt;N&gt; |
+| &lt;N&gt;の後（うし）ろに | behind the &lt;N&gt; |
 | 家\(いえ\) | house |
 | 建物\(たてもの\) | building |
 | 病院\(びょういん\) | hospital |
